@@ -20,8 +20,3 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMeloFn&theme=react-dark&color=58A6FF&line=58A6FF&https://github.com/ashutosh00710/github-readme-activity-graph"/>
 
-<br>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
-
