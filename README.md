@@ -8,7 +8,7 @@
 </div>
 
 <h2>Languages and tools:</h2>
-<img align="center" src="https://skillicons.dev/icons?i=git,html,css,js,react,java,mysql,python"/>
+<img align="center" src="https://skillicons.dev/icons?i=git,html,css,js,react,java,mysql,python,php,laravel"/>
 
 <h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/gustavomelofn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
