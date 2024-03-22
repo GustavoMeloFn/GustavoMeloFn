@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header"/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gustavo+de+Melo+Fernandes;I'm+20+years+old;I+am+from+Guaianases,+SP;Welcome!&https://git.io/typing-svg"/>
-<p>I am a young developer striving to achieve excellence as a fullstack programmer and establish a solid position in the dynamic technology market. My relentless pursuit of knowledge and my passion for challenges drive me to constantly enhance my skills and find innovative solutions.</p>
+<p>As an aspiring developer, I am committed to achieving excellence as a full-stack programmer and securing a robust foothold in the dynamic technology market. My unyielding quest for knowledge, coupled with my enthusiasm for tackling challenges, propels me to continually refine my skills and devise innovative solutions.</p>
 
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoMeloFn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
