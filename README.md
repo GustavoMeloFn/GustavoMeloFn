@@ -3,7 +3,7 @@
 
 |                                                                                                        |                             |
 |--------------------------------------------------------------------------------------------------------|-----------------------------|
-| <h3>Hey there! I’m Gustavo, a developer who loves coding. I'm always learning and looking for new ways to solve problems. Feel free to check out my profile and my projects. Let’s connect and share ideas! </h3> | <img src="img/myPixel.jpg" width="500px" /> |
+| <h3>Hey there! I’m Gustavo, a developer who loves coding. I'm always learning and looking for new ways to solve problems. Feel free to check out my profile and my projects. Let’s connect and share ideas! </h3> | <img src="img/myPixel.jpg" width="600px" /> |
 
 <h2>Languages and tools:</h2>
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,git,java,mysql,python,php,laravel"/>
