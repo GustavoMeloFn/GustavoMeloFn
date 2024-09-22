@@ -14,9 +14,3 @@
 <a href="https://www.linkedin.com/in/gustavomelofn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/melo_fernandes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto: gustavo.melo.fn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br>
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMeloFn&theme=react-dark&color=58A6FF&line=58A6FF&https://github.com/ashutosh00710/github-readme-activity-graph"/>
-
