@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header"/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+Gustavo+Melo;A+FullStack+Web+Developer;Check+out+my+projects;and+let's+connect!&https://git.io/typing-svg"/>
 
-|                                                                                                        |                             |
-|--------------------------------------------------------------------------------------------------------|-----------------------------|
-| <h3>Hey there! I’m Gustavo, a developer who loves coding. I'm always learning and looking for new ways to solve problems. Feel free to check out my profile and my projects. Let’s connect and share ideas! </h3> | <img src="img/myPixel.jpg" width="600px" /> |
+<h3>Hey there! I’m Gustavo, a developer who loves coding. I'm always learning and looking for new ways to solve problems. Feel free to check out my profile and my projects.<br/> Let’s connect and share ideas! </h3> 
 
 <h2>Languages and tools:</h2>
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,git,java,mysql,python,php,laravel"/>
